@@ -34,7 +34,7 @@ For Example, my local Network is zone of high trust where as the incoming  netwo
 > This method has saved many computers from hackers.
  The working of Proxy Firewall is as follows, when the request is made from computer A, this request is received from copmuter B (whcih acts as proxy) and the computer B sends the request to the internet, and the Internet thinks the request was made by computer B, where as computer A is safeguarded by computer B, this method of Security is called as Proxy Firewall
 
-  ## Types of Firewall Works
+  ## Types of Firewall
 
   1. Packet Filtering Firewall
 
