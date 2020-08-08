@@ -38,7 +38,7 @@ For Example, my local Network is zone of high trust where as the incoming networ
 
   1. Packet Filtering Firewall
 
-  This is the most chepest for of security, here when a user request from data from the internet, the data is split into number of packets, for Example a 400mb data is split into number of small packets of 5mb and transmited into the network, when the data arrives the system the firewall checks for the port number and if it matches the request port id, the data packet passes the firewall, but there is a disadvantage where as each datapacket containes data payload, this payload might contain virus or be hacked.
+  This is the most chepest for of security, here when a user request for data from the internet, the data is split into number of packets, for Example a 400mb data is split into number of small packets of 5mb and transmitted into the network, when the data arrives the system the firewall checks for the port number and if it matches the request port id, the data packet passes the firewall, but there is a disadvantage where as each datapacket containes data payload, this payload might contain virus or be hacked.
 
   hence, Packet Filter is a Low Security option.
 
