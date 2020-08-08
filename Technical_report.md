@@ -8,12 +8,12 @@ Firewall helps us form protecting our system from an Unauthorized Netwrok or Vir
 
 Hardware Firewall is a devices that is connected to our system with untrusted internet, it is also called as network firewall which runs on network hardware. 
 
-A Software firewall is a program to protect each and every computer from hackers. it is a Host-based firewall which controles network in and out by running on a host computer.
+A Software firewall is a program to protect each and every computer from hackers. it is a Host-based firewall which control network in and out by running on a host computer.
 
 
 ## What is a Firewall
 
-Firewall contorles and Monitors the Flow of incomming and outgoing data from our computer.
+Firewall control and Monitors the Flow of incomming and outgoing data from our computer.
 
 The task of firewall is to regulate flow of traffic in between computer network of diffrent trust Levels.
 
