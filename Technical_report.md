@@ -56,9 +56,9 @@ For Example, my local Network is zone of high trust where as the incoming networ
 
   ## Limitation of Firewall
 
-  * Firewall can not completly protect us from Internet as it does not scan every incomming data packet.
+  * Firewall can not completely protect us from Internet as it does not scan every incomming data packet.
 
-  * As the firewall is used to protech the user from unauthorized network, if the user itself attacks the internal network the firwall cannot protect the system.
+  * As the firewall is used to protect the user from unauthorized network, if the user itself attacks the internal network the firwall cannot protect the system.
   
   * A firewall is only effective if it has only one entry exit point of a network but if there exist more than one entry exit point it fais to protect.
 
