@@ -1,23 +1,23 @@
 # Technical Paper On Firewall
 ## Abstract
-> As there is an Increses in Demand for Connecting Various Devices Across the globe, there is a need for robust CyberSecurity to protect our devices form cyber attack which can lead to Tremendous Financial lose as well as loss of confidential data, hence by firewall we can monitor and control incomming and outgoing network traffic from a predeterminded Security Rules.
+> As there is an Increses in Demand for Connecting Various Devices Across the globe, there is a need for robust CyberSecurity to protect our devices form cyber attack which can lead to Tremendous Financial loss as well as loss of confidential data, hence by firewall we can monitor and control incomming and outgoing network traffic from a predeterminded Security Rules.
 
 ## Introduction
 A Firewall can either be a Software program or a Hardware.
 Firewall helps us form protecting our system from an Unauthorized Netwrok or Viruse, worms that tries to reach our system. 
 
-Hardware firewall is a devices that is connected to our system with untrusted internet, it is also called as network firewall which runs on network hardware. 
+Hardware Firewall is a devices that is connected to our system with untrusted internet, it is also called as network firewall which runs on network hardware. 
 
 A Software firewall is a program to protect each and every computer from hackers. it is a Host-based firewall which controles network in and out by running on a host computer.
 
 
 ## What is a Firewall
 
-Firewall contorles and Moniters the Flow of incomming and outgoing data from our computer.
+Firewall contorles and Monitors the Flow of incomming and outgoing data from our computer.
 
 The task of firewall is to regulate flow of traffic in between computer network of diffrent trust Levels.
 
-For Example, my local Network is zone of high trust where as the incoming  network is zone of low trust. this incomming messeges are passed through firewall. firewall checks if this incomming data matches the specified security criteria, then it allows the data to pass the firewall or else it blocks the data enterning our system.
+For Example, my local Network is zone of high trust where as the incoming network is zone of low trust. this incomming messeges are passed through firewall. firewall checks if this incomming data matches the specified security criteria, then it allows the data to pass the firewall or else it blocks the data enterning our system.
 
 ## How Firewall Works
 
