@@ -51,7 +51,7 @@ For Example, my local Network is zone of high trust where as the incoming networ
 
   This method has both Packet Filtering Firewall as well as Application firewall to enhance security.
 
-  Hybrid firewall has Packet Firewall and Application firewall in series as a result this method has the higest secirity compared to other types of wirewall.
+  Hybrid firewall has Packet Firewall and Application firewall in series as a result this method has the higest secirity compared to other types of firewall.
 
 
   ## Limitation of Firewall
