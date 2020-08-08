@@ -1,38 +1,34 @@
 # Technical Paper On Firewall
 ## Abstract
-> As there is an Increses in Demand for Connecting Various Devices Across the globe, there is a need for robust CyberSecurity to protect our devices form cyber attack which can lead to Tremendous Financial loss as well as loss of confidential data, hence by firewall we can monitor and control incomming and outgoing network traffic from a predeterminded Security Rules.
+>As there is an Increase in Demand for Connecting Various Devices Across the globe, there is a need for robust CyberSecurity to protect our devices from cyber-attack which can lead to Tremendous Financial loss as well as a loss of confidential data, hence by firewall we can monitor and control incoming and outgoing network traffic from a predetermined Security Rules.
 
 ## Introduction
-A Firewall can either be a Software program or a Hardware.
-Firewall helps us form protecting our system from an Unauthorized Netwrok or Viruse, worms that tries to reach our system. 
-
-Hardware Firewall is a devices that is connected to our system with untrusted internet, it is also called as network firewall which runs on network hardware. 
-
-A Software firewall is a program to protect each and every computer from hackers. it is a Host-based firewall which control network in and out by running on a host computer.
+A Firewall can either be a Software program or a Hardware. The firewall helps us form protecting our system from an Unauthorized Network or Virus, worms that try to reach our system.
+Hardware Firewall is a device that is connected to our system with untrusted internet, it is also called a network firewall that runs on network hardware.
+A software firewall is a program to protect each and every computer from hackers. it is a Host-based firewall that controls network in and out by running on a host computer.
 
 
 ## What is a Firewall
 
-Firewall control and Monitors the Flow of incomming and outgoing data from our computer.
+Firewall control and Monitors the Flow of incoming and outgoing data from our computer.
 
-The task of firewall is to regulate flow of traffic in between computer network of diffrent trust Levels.
+The task of a firewall is to regulate the flow of traffic in between computer networks of different trust levels.
 
-For Example, my local Network is zone of high trust where as the incoming network is zone of low trust. this incomming messeges are passed through firewall. firewall checks if this incomming data matches the specified security criteria, then it allows the data to pass the firewall or else it blocks the data enterning our system.
+For Example, my local Network is a zone of high trust whereas the incoming network is zone of low trust. These incoming messages are passed through a firewall. firewall checks if this incoming data matches the specified security criteria, then it allows the data to pass the firewall, or else it blocks the data entering our system.
 
 ## How Firewall Works
 
 * First generation: packet filters
 
->Packet filtering, workings on the basis of Allowed and Not Allowed Network permission, in which the Firewall blocks the Not Allowed network from entering our system. The not allowed sites will in included in the Firewall list.
+>Packet filtering, workings based on Allowed and Not Allowed Network permission, in which the Firewall blocks the Not Allowed network from entering our system. The not allowed sites will in included in the Firewall list.
 
 * Second generation: stateful filters
 
->The Firewall notices which website we are currently using and will have a conversation list of our browsing history, if the unknown data enters our site which is not present in our conversation list that site will be blocked, this method of protection is known as **statefull Inspection.**
+>The Firewall notices which website we are currently using and will have a conversation list of our browsing history, if the unknown data enters our site which is not present in our conversation list that site will be blocked, this method of protection is known as **statefull Inspection**.
 
 *  Proxy FireWall
 
-> This method has saved many computers from hackers.
- The working of Proxy Firewall is as follows, when the request is made from computer A, this request is received from computer B (whcih acts as proxy) and the computer B sends the request to the internet, and the Internet thinks the request was made by computer B, where as computer A is safeguarded by computer B, this method of Security is called as Proxy Firewall
+> This method has saved many computers from hackers. The working of Proxy Firewall is as follows when the request is made from computer A, this request is received from computer B (which acts as a proxy) and the computer B sends the request to the internet, and the Internet thinks the request was made by computer B, whereas computer A is safeguarded by computer B, this method of Security is called as Proxy Firewall
 
   ## Types of Firewall
 
